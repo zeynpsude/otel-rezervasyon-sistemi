@@ -2,6 +2,8 @@
 
 Bu projemizde amaç; otel personellerinin müşteri listesini takip edebileceği, rezervasyon kaydı ve iptali yapabileceği, rezervasyonlara ait ödeme alabileceği, ödeme takiplerini yapabileceği ve Feedback kayıtlarını girip yönetebileceği bir otel rezervasyon sistemi kurmaktır. Bu sistem sayesinde personeller, kullanıcı girişi yaptığında tüm bu hizmetlere erişebilmektedir.
 
+Php ve MySql kullanılarak yapılmıştır.
+
 Arayüzümüz ilk olarak bir kullanıcı giriş ekranı ile başlamaktadır. Burada kullanıcı adı ve şifre bilgileri veri tabanından çekilmektedir. Eğer girilen veriler, veri tabanı ile uyuşursa giriş başarılı olmaktadır.
 ![image](https://github.com/user-attachments/assets/5a0664e3-373e-4f99-9a65-1e10a0082108)
 
